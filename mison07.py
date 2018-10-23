@@ -1,3 +1,6 @@
+#Autor: Juan Sebastián Lozano Derbez
+# Programa que utiliza whiles para ejecutar funciones
+
 def hacerMenu():
     print("""Misión 07, Funciones:
 
